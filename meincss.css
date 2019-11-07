@@ -1,0 +1,34 @@
+body {
+	font-family:'Copperplate';
+}
+
+h4 {
+	font-size: 2em;
+}
+
+h1 {
+	font-family:'Comic Sans';
+	color: ##ff0000;
+	font-size: 3em;
+	background: #33FF66;
+	line-height: 75px;
+	margin: 0px 0px 0px 10px;
+	padding-left: 50px;
+}
+
+h2 {
+	color: #313131;
+	font-size: 3em;
+	font-family:'Copperplate';
+	margin-top: 50px;
+	border-bottom: 2px red dotted;
+	overflow: hidden;
+}
+
+p {
+	color: #464646;
+	line-height: 150%;
+	padding-top: 10px;
+	padding-left: 60px;
+}
+
